@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"schneik",
+	"description":	{
+		"":	"Displays a Document's URN, Folder, Project and Hub data."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
